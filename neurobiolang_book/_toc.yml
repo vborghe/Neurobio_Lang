@@ -6,10 +6,11 @@
   sections:
     - file: neuropsy
     - file: neuroimg
-- file: xxx
+- file: neuroling
   sections:
-    - file: xxx
-    - file: xxx
+    - file: spea_lis
+    - file: read_write
+    - file: lex_sem  
 - file: conclusions
 - file: acknowledgements
 - file: references
