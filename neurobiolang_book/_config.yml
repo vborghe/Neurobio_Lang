@@ -9,6 +9,8 @@ title                       : Neurobiology of Language  # The title of the book.
 author                      : valentina borghesani # The author of the book
 copyright                   : "2021"  # Copyright year to be placed in the footer
 logo                        : NeuroLang.png  # A path to the book logo
+bibtex_bibfiles:
+   - references.bib
 
 # Parse and render settings
 parse:
