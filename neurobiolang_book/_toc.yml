@@ -2,6 +2,10 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 - file: intro
 - file: syllabus
+- file: neurolang
+  sections:
+    - file: neuro
+    - file: lang
 - file: methods
   sections:
     - file: neuropsy
