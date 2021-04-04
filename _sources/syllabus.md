@@ -1,18 +1,24 @@
 Syllabus
 =======================
 
+######  Instructor:
+Dr. Valentina Borghesani - Centre de recherche de l'Institut universitaire de gériatrie de Montréal; Department of Psychology, Université de Montréal, 
+* email: valentina(dot)borghesani[(at)gmail(dot)com
+* website: valentina.borghesani.org
+
 ######  Prerequisites:
 xxxxxx
 
 ###### Learning Outcomes:
-To learn how brain imaging techniques can be applied to psycholinguistic research, and the potential pitfalls of doing so
-To learn to evaluate brain imaging studies of language in terms of their scientific and methodological aspects
+xxxxxx
 
 ###### Tools
-This jupyterbook and all the links here provided
-Ad-hoc slack channel (coming up)
-Zoom
-GoogleDrive
+Throughout the course we will be using the following tools:
+* This jupyterbook and all the links here provided
+* Ad-hoc slack channel (coming up)
+* Zoom
+* GoogleDrive
+Please contact the instructor if you have any issue of access/availability with any of these software/platforms.
 
 ###### Schedule-driven grading
 All students start the course with 100 points, and lose 2 points for every assignment that they don’t complete, discussion they don't participate in, syncronous meeeting they don't attend.
