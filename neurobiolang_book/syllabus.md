@@ -2,7 +2,9 @@ Syllabus
 =======================
 
 ######  Instructor:
-Dr. Valentina Borghesani - Centre de recherche de l'Institut universitaire de gériatrie de Montréal; Department of Psychology, Université de Montréal, 
+Dr. Valentina Borghesani - Centre de recherche de l'Institut universitaire de gériatrie de Montréal; Department of Psychology, Université de Montréal.
+
+Contact:
 * email: valentina(dot)borghesani[(at)gmail(dot)com
 * website: valentina.borghesani.org
 
@@ -18,6 +20,7 @@ Throughout the course we will be using the following tools:
 * Ad-hoc slack channel (coming up)
 * Zoom
 * GoogleDrive
+
 Please contact the instructor if you have any issue of access/availability with any of these software/platforms.
 
 ###### Schedule-driven grading
