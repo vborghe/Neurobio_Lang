@@ -1,4 +1,4 @@
-Lexico-Semantic
+Syntax and Discourse
 =======================
 
 coming soon 
