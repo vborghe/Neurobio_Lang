@@ -1,4 +1,4 @@
-Language and Linguistics
+Language & Linguistics 101
 =======================
 
 ###### Language
