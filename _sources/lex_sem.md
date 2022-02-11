@@ -1,10 +1,4 @@
 Lexico-Semantic
 =======================
 
-xxxx
-
-###### Grammar
-xxxx
-
-###### Concepts
-xxxx
+coming soon 

@@ -1,10 +1,20 @@
 Neuropsychology
 =======================
 
-stroke
+[week 1 and 2] Overview of developmental, acquired, and neurodegenerative disorders affecting language 
 
-hvse
+###### General Principles 
+We will learn (or revise) basic concept of neuropsychology.
 
-epilepsy
+###### Developmental Disorders
+tbd
 
-neurodegeneration
+###### Acquired Disorders
+tbd
+
+###### Neurodegenerative Disorders
+tbd
+
+
+
+    
