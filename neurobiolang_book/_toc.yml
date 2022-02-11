@@ -1,29 +1,29 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-- file: intro
+format: jb-article
+root: intro
+sections:
 - file: syllabus
 - file: prerequ
   sections:
-    - file: neuro
-    - file: lang
+  - file: neuro
+  - file: lang
 - file: neuropsy
   sections:
-    - file: genprin
-    - file: develop
-    - file: aquired
-    - file: neurodeg
+  - file: genprin
+  - file: develop
+  - file: aquired
+  - file: neurodeg
 - file: neuroimg
   sections:
-    - file: mri
-    - file: meg
-    - file: intra
+  - file: mri
+  - file: meg
+  - file: intra
 - file: neuroling
   sections:
-    - file: spea_lis
-    - file: read_write
-    - file: sign  
-    - file: lex_sem  
-    - file: syn_disc  
+  - file: spea_lis
+  - file: read_write
+  - file: sign
+  - file: lex_sem
+  - file: syn_disc
 - file: conclusions
 - file: acknowledgements
 - file: codeofconduct
